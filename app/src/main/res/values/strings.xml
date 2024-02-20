@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Affirmations047</string>
+    <string name="affirmation1">Image 1</string>
+    <string name="affirmation2">Image 2</string>
+    <string name="affirmation3">Image 3</string>
+    <string name="affirmation4">Image 4</string>
+    <string name="affirmation5">Image 5</string>
+    <string name="affirmation6">Image 6</string>
+    <string name="affirmation7">Image 7</string>
+    <string name="affirmation8">Image 8</string>
+    <string name="affirmation9">Image 9</string>
+    <string name="affirmation10">Image 10</string>
+
+</resources>
